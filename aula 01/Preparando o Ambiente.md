@@ -23,3 +23,8 @@ Um dos meus grandes planos é montar uma máquina Ubuntu para desenvolver. No tr
 
 Quando encontrar um bom tutorial de instação, colo aqui.
 
+## Exemplo de configuração Hyper
+
+A tela abaixo é do Hyper devidamente configurado - usei o tema dallas. A lista dos temas você encontrar no link https://github.com/robbyrussell/oh-my-zsh/wiki/Themes
+
+![screenshot Hyper](https://github.com/fpsaraiva/curso-do-front-ao-end/blob/master/aula%2001/hyper_screen.JPG)
