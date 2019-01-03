@@ -4,7 +4,7 @@ Aqui neste repositório estão os arquivos de aulas e de desafios resolvidos, do
 
 - Aula 01
 
-Preparação do ambiente
-Noções de comandos no terminal
-Noções de Markdown
+Preparação do ambiente  
+Noções de comandos no terminal  
+Noções de Markdown  
 Noções de Git/Github
