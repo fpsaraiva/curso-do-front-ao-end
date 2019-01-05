@@ -1,6 +1,6 @@
 # Tutorial básico de terminal
 
-O terminal é, em poucas palavras, o modo texto de trabalhar no Linux. Ele permite uma maior liberadade de movimentos do que as interfaces gráficas e, apesars de parecer o contrário, é bem tranquilo de aprender. A medida em que você utiliza ele no dia-a-dia, os comandos começam a fazer sentido.
+O terminal é, em poucas palavras, o modo texto de trabalhar no Linux. Ele permite uma maior liberdade de movimentos do que as interfaces gráficas e, apesar de parecer o contrário, é bem tranquilo de aprender. A medida em que você utiliza ele no dia-a-dia, os comandos começam a fazer sentido.
 
 Tive a sorte de, no trabalho, ganhar um note com Ubuntu instalado. Confesso que fiquei um pouco receoso no começo, na dúvida se atenderia todos as minhas necessidades. Mas acabou tudo certo, inclusive acelerou bastante minha curva de aprendizado.
 
@@ -49,5 +49,5 @@ rm touch.html
 ## Referências para estudo
 
 - [Guia](https://github.com/fpsaraiva/curso-do-front-ao-end/blob/master/aula%2001/guia_500_comandos_linux.pdf "Guia Linux PT-br") "Guia com mais de 500 comandos do Linux", do Bruno Andrade;
-- [Guia](https://gist.github.com/hofmannsven/8392477 "Crashcourse Comandos Terminal") (em inglês) "Command Line Crash Couse", do Sven Hofmann (@hofmannsven);
+- [Guia](https://gist.github.com/hofmannsven/8392477 "Crash Course Comandos Terminal") (em inglês) "Command Line Crash Couse", do Sven Hofmann (@hofmannsven);
 - [Guia](https://github.com/fpsaraiva/curso-do-front-ao-end/blob/master/aula%2001/bash_cheat_sheet.pdf "Cheat Sheet Linux") (em inglês) "Linux Bash Shell Cheat Sheet".
