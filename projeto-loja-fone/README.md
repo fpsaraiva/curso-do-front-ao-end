@@ -36,3 +36,9 @@ Usamos ela para definir o corpo de conteúdo do documento HTML.
 - [Artigo](https://medium.com/trainingcenter/criando-meu-site-pessoal-parte-1-4abf417c56d8 "Artigo Criando Site Pessoal") "Criando meu site pessoal - Parte 1", da Lauren Ferreira (@laurenmariaferreira);
 - [Guia](https://learn.shayhowe.com/html-css/ "Guia Learn to Code HTML & CSS") (em inglês) "Learn to Code HTML & CSS", do Shay Howe;
 - [Livro](https://html5forwebdesigners.com/index/ "Livro HTML for Web Designers") (em inglês) "HTML5 For Web Designers", do Jeremy Keith e da Rachel Andrew.
+
+## CSS
+
+É uma linguagem de estilo, isso quer dizer que ela tem as seguintes responsabilidades:
+
+- Visual.
