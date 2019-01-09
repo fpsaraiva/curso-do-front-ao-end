@@ -5,10 +5,12 @@ header {
 
 h1 {
   font-size: 40px;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 nav {
    font-size: 21px;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 a {
