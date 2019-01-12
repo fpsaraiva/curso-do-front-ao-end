@@ -2,6 +2,11 @@ header {
   background-color: #e24647;
   color: #FFF;
   overflow: hidden;
+  margin-left: 115px;
+  margin-right: 115px;
+
+/* padding: top right bottom left; */
+  padding: 55px 60px 95px 60px
 }
 
 h1 {
