@@ -67,7 +67,7 @@ Comando que permite alterar o `commit` mais recente. Para alterar simplesmente a
 git commit --amend -m "nova mensagem de commit"
 ```
 
--`git remote add origin [url]` (conecta repositório local com o remoto)
+- `git remote add origin [url]` (conecta repositório local com o remoto)
 
 Este comando deve ser utilizado logo após a criação do repositório remoto. Assim, ele é conectado com o repositório local.
 
@@ -75,7 +75,7 @@ Este comando deve ser utilizado logo após a criação do repositório remoto. A
 git remote add origin https://github.com/fpsaraiva/repositorio-github.git
 ```
 
--`git push -u origin master` (push inicial do repositório local)
+- `git push -u origin master` (push inicial do repositório local)
 
 Comando que representa o push inicial do repositório recém criado, para o repositório remoto. Após a primeira vez, é possível usar apenas o comando push.
 
