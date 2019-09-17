@@ -75,6 +75,14 @@ Este comando deve ser utilizado logo após a criação do repositório remoto. A
 git remote add origin https://github.com/fpsaraiva/repositorio-github.git
 ```
 
+-`git push -u origin master` (push inicial do repositório local)
+
+Comando que representa o push inicial do repositório recém criado, para o repositório remoto. Após a primeira vez, é possível usar apenas o comando push.
+
+```
+git push
+```
+
 ## Cheat Sheets
 
 As cheat sheets são nada mais que folhas com um resumo dos comandos mais utilizados. Tipo um resumão, me ajudou bastante a estudar e também serve de referência quando não lembro de algum comando quando estou trabalhando no projeto.
