@@ -67,6 +67,14 @@ Comando que permite alterar o `commit` mais recente. Para alterar simplesmente a
 git commit --amend -m "nova mensagem de commit"
 ```
 
+-`git remote add origin [url]` (conecta repositório local com o remoto)
+
+Este comando deve ser utilizado logo após a criação do repositório remoto. Assim, ele é conectado com o repositório local.
+
+```
+git remote add origin https://github.com/fpsaraiva/repositorio-github.git
+```
+
 ## Cheat Sheets
 
 As cheat sheets são nada mais que folhas com um resumo dos comandos mais utilizados. Tipo um resumão, me ajudou bastante a estudar e também serve de referência quando não lembro de algum comando quando estou trabalhando no projeto.
