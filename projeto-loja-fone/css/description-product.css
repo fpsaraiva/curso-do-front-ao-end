@@ -41,6 +41,10 @@
     margin-bottom: 30px;
 }
 
+.description-product > .text.-more {
+    margin-bottom: 0;
+}
+
 .description-product .action {
     text-decoration: none;
     color: inherit;
