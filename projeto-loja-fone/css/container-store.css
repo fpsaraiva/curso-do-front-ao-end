@@ -26,3 +26,15 @@
       margin-right: auto;
     }
   }
+
+  @media (max-height: 955px) {
+    .container-store {
+      padding-right: 30px;
+    }
+  }
+
+  @media (max-width: 375px) {
+    .container-store {
+      padding-right: 16px;
+    }
+  }
