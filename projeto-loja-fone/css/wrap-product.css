@@ -18,9 +18,10 @@
 
     .wrap-product > .buttons {
         position: static;
-        width: 50%;
+        width: 100%;
         margin-left: auto;
         margin-right: auto;
         text-align: center;
+        transform: none;
     }
 }
