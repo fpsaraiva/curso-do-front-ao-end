@@ -77,6 +77,15 @@
         font-size: 35px;
         text-align: center;
     }
+
+    .description-product > .item.-star {
+        float: left;
+        margin-right: 10px;
+    }
+
+    .description-product > .item.-number {
+        padding-top: 4px;
+    }
 }
 
 @media (max-width: 720px) {
