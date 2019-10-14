@@ -15,3 +15,4 @@ Primeiro projeto do curso, abordando os seguintes tópicos:
 
 HTML  
 CSS
+JavaScript
