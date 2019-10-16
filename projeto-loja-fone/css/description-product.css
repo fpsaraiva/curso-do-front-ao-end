@@ -18,6 +18,7 @@
     transform: translateX(-100%);
     top: 8px;
     left: -47px;
+    cursor: pointer;
 }
 
 .description-product > .item.-star {
