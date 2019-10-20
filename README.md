@@ -14,5 +14,5 @@ Noções de Git/Github
 Primeiro projeto do curso, abordando os seguintes tópicos:
 
 HTML  
-CSS
+CSS  
 JavaScript
