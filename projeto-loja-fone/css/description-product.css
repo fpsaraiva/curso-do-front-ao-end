@@ -23,10 +23,6 @@
     height: 29px;
 }
 
-.description-product > .item.-active {
-    background-color: #252c41;
-}
-
 .description-product > .item.-star {
     margin-bottom: 10px;
     cursor: pointer;
