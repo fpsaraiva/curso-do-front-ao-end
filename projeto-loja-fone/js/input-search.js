@@ -1,3 +1,7 @@
-const $search = document.querySelector("[type=search]");
+const $inputSearch = document.querySelector(".input-search");
+const $icon = $inputSearch.querySelector(".icon");
 
-$search.addEventListener('click', () => $search.classList.toggle('-active'));
+$icon.addEventListener('click', event => {
+  event.preventDefault(); 
+  $inputSearch.classList.toggle("-active");
+})
