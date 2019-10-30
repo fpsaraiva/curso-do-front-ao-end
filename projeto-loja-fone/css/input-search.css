@@ -28,10 +28,15 @@
     position: absolute;
     top: 0;
     left: 0;
-    transform: translateX(-88%);
+    transform: translateX(calc(-100% + 40px));
     transition: transform 200ms linear;
   }
 
+  .input-search.-active {
+    transition: transform 200ms linear;
+    transform: translateX(0);
+  }
+  
   .input-search > .content {
     background-color: #fff;
     color: #000;
@@ -40,7 +45,7 @@
   }
 
   .input-search > .icon {
-    display: inline-block;
+    display: none;
     background-color: #fff;
     box-sizing: border-box;
     width: 42px;
@@ -49,8 +54,12 @@
     vertical-align: middle;
   }
 
-  .input-search.-active {
-    transition: transform 600ms cubic-bezier(0, 0, 0.96, 1.26);
-    transform: translateX(0);
+  .input-search > .icon.-active {
+    display: inline-block;
+}
+
+@media (max-width: 400px) {
+  .input-search > .content {
+    width: 85%;
   }
 }
