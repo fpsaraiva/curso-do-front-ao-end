@@ -1,3 +1,7 @@
+.input-search {
+  display: inline-block;
+}
+
 .input-search > .content {
   background: transparent;
   border: none;
@@ -15,6 +19,10 @@
   color: inherit;
 }
 
+.input-search > .icon {
+  display: none;
+}
+
 @media (max-width: 955px) {
   .input-search {
     position: absolute;
@@ -27,6 +35,18 @@
   .input-search > .content {
     background-color: #fff;
     color: #000;
+    margin-right: 0;
+    vertical-align: middle;
+  }
+
+  .input-search > .icon {
+    display: inline-block;
+    background-color: #fff;
+    box-sizing: border-box;
+    width: 42px;
+    height: 42px;
+    padding: 8px;
+    vertical-align: middle;
   }
 
   .input-search.-active {
