@@ -45,23 +45,20 @@
   }
 
   .input-search > .icon {
-    display: none;
+    display: none;  
     background-color: #fff;
     box-sizing: border-box;
-    width: 42px;
+    width: 40px;
     height: 42px;
     padding: 8px;
     vertical-align: middle;
   }
 }
 
-<<<<<<< HEAD
   .input-search > .icon.-active {
     display: inline-block;
 }
 
-=======
->>>>>>> a172da643b2670767a3e3b6224f23f318e6ca777
 @media (max-width: 400px) {
   .input-search > .content {
     width: 85%;
