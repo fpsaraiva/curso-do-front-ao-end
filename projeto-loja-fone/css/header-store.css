@@ -118,9 +118,29 @@
     background: url(../img/menu.svg) #fff no-repeat center;
     text-indent: -9999px;
     margin: 0;
+    position: absolute;
+    top: 0;
+    left: 0;
+    transform: translateX(-100%);
   }  
 
-  .header-store .action {
-    display: none;
+  .header-store .list {
+    background-color: #fff;
+    color: #000;
+    width: 100%;
+    padding: 40px 0 20px;
+    position: absolute;
+    top: 0;
+    right: 0;
+    transform: translateX(100%);
+    transition: transform 300ms linear;
+  }
+
+  .header-store .list.-active {
+    transform: translateX(0);
+  }
+
+  .header-store .item {
+    display: block;
   }
 }
