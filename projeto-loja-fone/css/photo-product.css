@@ -5,7 +5,8 @@
     vertical-align: middle;
     border-top-right-radius: 150px;
     border-bottom-right-radius: 150px;
-    margin-right: 157px;
+    margin-right: 137px;
+    padding: 50px;
 }
 
 @media (max-width: 1325px) {
