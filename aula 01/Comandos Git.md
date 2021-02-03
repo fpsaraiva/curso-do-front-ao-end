@@ -106,5 +106,3 @@ Como falei acima, existe muito material (e bom)para aprender Git/GitHub, dispon�
 - [Artigo](https://udacity.github.io/git-styleguide/ "Artigo Commit Style Guide") (em inglês) "Udacity Git Commit Message Style Guide", do Udacity;
 
 - [Artigo](https://medium.freecodecamp.org/how-not-to-be-afraid-of-git-anymore-fe1da7415286 "Artigo nor afraid of git") (em inglês) "How not to be afraid of Git anymore", do Neil Kakkar;
-
-- [Artigo](https://medium.freecodecamp.org/follow-these-simple-rules-and-youll-become-a-git-and-github-master-e1045057468f "Artigo follow simple rules to become git master") (em inglês) "Follow these simple rules and you'll become a Git and GitHub master", do Ariel Camus.
