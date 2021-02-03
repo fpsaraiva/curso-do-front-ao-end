@@ -8,7 +8,7 @@ A minha intenção aqui não é detalhar a sintaxe da linguagem, mas sim disponi
 
 - [Curso](https://www.udemy.com/aprenda-markdown/ "Curso Aprenda Markdown") "Aprenda markdown", do Roberto Achar (@robertoachar);
 
-- [Guia](https://blog.da2k.com.br/2015/02/08/aprenda-markdown/ "Guia Markdown Daciuk") "Aprenda Markdown", do Fernando Daviuk (@fdaciuk);
+- [Guia](https://blog.da2k.com.br/2015/02/08/aprenda-markdown/ "Guia Markdown Daciuk") "Aprenda Markdown", do Fernando Daciuk (@fdaciuk);
 
 - [Guia](https://help.github.com/articles/basic-writing-and-formatting-syntax/ "Guia Markdown GitHub")  (em inglês) "Basic writing and formatting syntax", do GitHub;
 
